@@ -2,10 +2,7 @@
   "name": "rp-alloys-assignment",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "build": "webpack"
-  },
+  "main": "./src/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KunalNimsatkar/RP-Alloys-Assignment.git"
@@ -16,12 +13,5 @@
   "bugs": {
     "url": "https://github.com/KunalNimsatkar/RP-Alloys-Assignment/issues"
   },
-  "homepage": "https://github.com/KunalNimsatkar/RP-Alloys-Assignment#readme",
-  "devDependencies": {
-    "css-loader": "^6.7.3",
-    "file-loader": "^6.2.0",
-    "html-loader": "^4.2.0",
-    "html-webpack-plugin": "^5.5.0",
-    "style-loader": "^3.3.1"
-  }
+  "homepage": "https://github.com/KunalNimsatkar/RP-Alloys-Assignment#readme"
 }
