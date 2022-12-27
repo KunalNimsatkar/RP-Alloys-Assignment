@@ -534,7 +534,12 @@ img {
   .home__group__img {
     max-width: 500px;
   }
-
+  .slide1,
+  .slide2,
+  .slide3 {
+    width: 300px;
+    height: 460px;
+  }
   /* Clients Section */
   .client__container {
     height: 100vh;
